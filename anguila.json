@@ -1,0 +1,737 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [2745, 950],
+      [40, 10]
+    ],
+    [
+      [2785, 960],
+      [-1, -53],
+      [50, 0],
+      [36, 70]
+    ],
+    [
+      [2870, 977],
+      [70, 14],
+      [75, -5],
+      [-2, -61],
+      [-132, -299],
+      [-13, -22]
+    ],
+    [
+      [2868, 604],
+      [3, 86],
+      [-50, 0],
+      [37, 78],
+      [8, 36]
+    ],
+    [
+      [2866, 804],
+      [-53, 44],
+      [-68, 0],
+      [0, 102]
+    ],
+    [
+      [3110, 1111],
+      [50, 25],
+      [20, 48],
+      [91, -26],
+      [54, -44],
+      [-42, -22],
+      [-85, -34],
+      [-16, -30],
+      [-62, -56],
+      [-22, 31],
+      [26, 44],
+      [-14, 64]
+    ],
+    [
+      [2682, 935],
+      [63, 15]
+    ],
+    [
+      [2866, 804],
+      [-106, -55],
+      [-79, 7],
+      [-41, -146]
+    ],
+    [
+      [2640, 610],
+      [-89, -2],
+      [-9, -25]
+    ],
+    [
+      [2542, 583],
+      [-26, 30]
+    ],
+    [
+      [2516, 613],
+      [60, 158],
+      [87, 4],
+      [24, 88],
+      [-5, 72]
+    ],
+    [
+      [2430, 708],
+      [40, 79],
+      [111, 124],
+      [101, 24]
+    ],
+    [
+      [2516, 613],
+      [-86, 95]
+    ],
+    [
+      [2353, 575],
+      [33, 47],
+      [44, 86]
+    ],
+    [
+      [2542, 583],
+      [-19, -51]
+    ],
+    [
+      [2523, 532],
+      [-170, 43]
+    ],
+    [
+      [2319, 525],
+      [34, 50]
+    ],
+    [
+      [2523, 532],
+      [-94, -70]
+    ],
+    [
+      [2429, 462],
+      [-53, 4],
+      [-43, -30]
+    ],
+    [
+      [2333, 436],
+      [2, 39],
+      [-16, 50]
+    ],
+    [
+      [2191, 401],
+      [76, 48],
+      [52, 76]
+    ],
+    [
+      [2333, 436],
+      [-20, -14],
+      [-122, -21]
+    ],
+    [
+      [2022, 360],
+      [169, 41]
+    ],
+    [
+      [2429, 462],
+      [-75, -65]
+    ],
+    [
+      [2354, 397],
+      [-57, -49],
+      [-42, -48],
+      [-95, -3],
+      [-5, -41],
+      [-74, 0],
+      [1, -64]
+    ],
+    [
+      [2082, 192],
+      [-58, -58]
+    ],
+    [
+      [2024, 134],
+      [-2, 226]
+    ],
+    [
+      [2024, 134],
+      [-94, -94],
+      [-91, -40],
+      [-114, 2],
+      [170, 266],
+      [51, 55],
+      [76, 37]
+    ],
+    [
+      [2428, 275],
+      [-252, -210],
+      [-19, 39],
+      [-44, 43],
+      [-31, 45]
+    ],
+    [
+      [2354, 397],
+      [3, -86],
+      [44, 28],
+      [28, 62]
+    ],
+    [
+      [2429, 401],
+      [-1, -126]
+    ],
+    [
+      [2633, 424],
+      [-48, -19],
+      [-157, -130]
+    ],
+    [
+      [2429, 401],
+      [0, 61]
+    ],
+    [
+      [2523, 532],
+      [85, 11]
+    ],
+    [
+      [2608, 543],
+      [18, -29],
+      [7, -90]
+    ],
+    [
+      [2868, 604],
+      [-38, -66],
+      [-72, -64],
+      [-125, -50]
+    ],
+    [
+      [2608, 543],
+      [32, 67]
+    ],
+    [
+      [2785, 960],
+      [85, 17]
+    ],
+    [
+      [6, 3913],
+      [-6, 78],
+      [35, -11],
+      [-29, -67]
+    ],
+    [
+      [1168, 959],
+      [-62, 31],
+      [-8, 53],
+      [60, 44],
+      [53, -33],
+      [63, -2],
+      [-106, -93]
+    ],
+    [
+      [1615, 914],
+      [33, -14],
+      [-27, -13],
+      [-23, 2],
+      [-18, 19],
+      [-16, 13],
+      [14, 3],
+      [24, -7],
+      [13, -3]
+    ],
+    [
+      [1682, 882],
+      [13, 0],
+      [7, 9],
+      [14, -2],
+      [6, -32],
+      [-21, -4],
+      [-18, 6],
+      [-1, 23]
+    ]
+  ],
+  "transform": {
+    "scale": [0.0001513202806851576, 0.0001082860425958392],
+    "translate": [-63.42882239499994, 18.169094143000052]
+  },
+  "objects": {
+    "anguila": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [
+            [0, 1, 2, 3, 4]
+          ],
+          [
+            [5]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "EE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5115",
+          "diss_me": 5115,
+          "iso_3166_2": "AI-X02~",
+          "wikipedia": "http://en.wikipedia.org/wiki/East_End,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "East End",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "East End",
+          "latitude": 18.2622,
+          "longitude": -62.9852,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [6, -5, 7, 8, 9, 10]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "ST",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5123",
+          "diss_me": 5123,
+          "iso_3166_2": "AI-X10~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Stoney_Ground",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "Stoney Ground",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Stoney Ground",
+          "latitude": 18.2387,
+          "longitude": -63.0368,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [11, -11, 12]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "NS",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5119",
+          "diss_me": 5119,
+          "iso_3166_2": "AI-X06~",
+          "wikipedia": "http://en.wikipedia.org/wiki/North_Side,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "North Side",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "North Side",
+          "latitude": 18.2606,
+          "longitude": -63.033,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [13, -13, -10, 14, 15]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "TV",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5126",
+          "diss_me": 5126,
+          "iso_3166_2": "AI-X13~",
+          "wikipedia": "http://en.wikipedia.org/wiki/The_Valley,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "The Valley",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "The Valley",
+          "latitude": 18.2321,
+          "longitude": -63.052,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [16, -16, 17, 18, 19]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "NH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5118",
+          "diss_me": 5118,
+          "iso_3166_2": "AI-X05~",
+          "wikipedia": "http://en.wikipedia.org/wiki/North_Hill,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "North Hill",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "North Hill",
+          "latitude": 18.2243,
+          "longitude": -63.074,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [20, -20, 21]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SG",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5120",
+          "diss_me": 5120,
+          "iso_3166_2": "AI-X07~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Sandy_Ground,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "Sandy Ground",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Sandy Ground",
+          "latitude": 18.2192,
+          "longitude": -63.0814,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [22, -22, -19, 23, 24, 25, 26]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SO",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5122",
+          "diss_me": 5122,
+          "iso_3166_2": "AI-X09~",
+          "wikipedia": "http://en.wikipedia.org/wiki/South_Hill,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "South Hill",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "South Hill",
+          "latitude": 18.2083,
+          "longitude": -63.0881,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [27, -27]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "WE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5127",
+          "diss_me": 5127,
+          "iso_3166_2": "AI-X14~",
+          "wikipedia": "http://en.wikipedia.org/wiki/West_End,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "West End",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "West End",
+          "latitude": 18.1865,
+          "longitude": -63.1384,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [28, -25, 29, 30]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "BP",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5114",
+          "diss_me": 5114,
+          "iso_3166_2": "AI-X01~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Blowing_Point",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "Blowing Point",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Blowing Point",
+          "latitude": 18.1889,
+          "longitude": -63.0943,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [31, -31, 32, -18, 33, 34]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "TF",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5124",
+          "diss_me": 5124,
+          "iso_3166_2": "AI-X11~",
+          "wikipedia": "http://en.wikipedia.org/wiki/The_Farrington",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "The Farrington",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "The Farrington",
+          "latitude": 18.2173,
+          "longitude": -63.0439,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [35, -35, 36, -8, -4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5121",
+          "diss_me": 5121,
+          "iso_3166_2": "AI-X08~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Sandy_Hill,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "Sandy Hill",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Sandy Hill",
+          "latitude": 18.2301,
+          "longitude": -63.0151,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [37, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "IH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5117",
+          "diss_me": 5117,
+          "iso_3166_2": "AI-X04~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Island_Harbour,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "Island Harbour",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Island Harbour",
+          "latitude": 18.2705,
+          "longitude": -63.0028,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [38]
+          ],
+          [
+            [39]
+          ],
+          [
+            [40]
+          ],
+          [
+            [41]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "X00~",
+          "featurecla": "Admin-1 minor island",
+          "scalerank": 11,
+          "adm1_code": "AIA+99?",
+          "diss_me": 10002,
+          "iso_3166_2": "AI-X00",
+          "wikipedia": "",
+          "iso_a2": "AI",
+          "adm0_sr": 6,
+          "name": "",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "AIA-99 (Anguilla minor island)",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "",
+          "latitude": 18.5982,
+          "longitude": -63.4262,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-24, -33, -30]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5116",
+          "diss_me": 5116,
+          "iso_3166_2": "AI-X03~",
+          "wikipedia": "http://en.wikipedia.org/wiki/George_Hill,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "George Hill",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "George Hill",
+          "latitude": 18.2089,
+          "longitude": -63.066,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-34, -15, -9, -37]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "TQ",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AIA-5125",
+          "diss_me": 5125,
+          "iso_3166_2": "AI-X12~",
+          "wikipedia": "http://en.wikipedia.org/wiki/The_Quarter,_Anguilla",
+          "iso_a2": "AI",
+          "adm0_sr": 1,
+          "name": "The Quarter",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "District",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "The Quarter",
+          "latitude": 18.2299,
+          "longitude": -63.04,
+          "admin": "Anguilla",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [25, 317],
+      [35, 125],
+      [90, 188],
+      [68, -21],
+      [34, -8],
+      [44, 2],
+      [-24, -82],
+      [49, -76]
+    ],
+    [
+      [321, 445],
+      [-40, -40],
+      [-35, -58],
+      [-24, -69]
+    ],
+    [
+      [222, 278],
+      [-72, 26],
+      [-125, 13]
+    ],
+    [
+      [424, 197],
+      [17, -20],
+      [20, -30],
+      [15, -31],
+      [3, -24],
+      [-19, -36],
+      [-30, -28],
+      [-43, -19],
+      [-54, -9],
+      [-273, 58],
+      [-60, 171],
+      [25, 88]
+    ],
+    [
+      [222, 278],
+      [52, -42],
+      [55, -26],
+      [95, -13]
+    ],
+    [
+      [321, 445],
+      [74, -73],
+      [47, -70],
+      [-1, -32],
+      [-22, -55],
+      [5, -18]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00018705555114823376, 0.0002285104571428061],
+    "translate": [-62.230132615999935, 16.67536041900007]
+  },
+  "objects": {
+    "montserrat": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SP",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "MSR-5089",
+          "diss_me": 5089,
+          "iso_3166_2": "MS-P",
+          "wikipedia": "http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes",
+          "iso_a2": "MS",
+          "adm0_sr": 3,
+          "name": "Saint Peter",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Peter",
+          "latitude": 16.7762,
+          "longitude": -62.2017,
+          "admin": "Montserrat",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [3, -3, 4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "MSR-5087",
+          "diss_me": 5087,
+          "iso_3166_2": "MS-A",
+          "wikipedia": "http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes",
+          "iso_a2": "MS",
+          "adm0_sr": 3,
+          "name": "Saint Anthony",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Anthony",
+          "latitude": 16.7048,
+          "longitude": -62.1886,
+          "admin": "Montserrat",
+          "gn_a1_code": "01",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [5, -5, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SG",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "MSR-5088",
+          "diss_me": 5088,
+          "iso_3166_2": "MS-G",
+          "wikipedia": "http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes",
+          "iso_a2": "MS",
+          "adm0_sr": 3,
+          "name": "Saint Georges",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Georges",
+          "latitude": 16.7442,
+          "longitude": -62.1671,
+          "admin": "Montserrat",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

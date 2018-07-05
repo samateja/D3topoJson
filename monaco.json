@@ -1,0 +1,60 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [275, 153],
+      [-18, -21],
+      [-57, -54],
+      [-52, -78],
+      [-91, 8],
+      [-57, 21],
+      [6, 69],
+      [20, 70],
+      [58, 73],
+      [74, 34],
+      [74, -49],
+      [43, -73]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00026074118227615954, 0.00016558718909069823],
+    "translate": [7.365750207000076, 43.71796907700008]
+  },
+  "objects": {
+    "monaco": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MC",
+          "featurecla": "Admin-1 aggregation",
+          "scalerank": 10,
+          "adm1_code": "MCO+00?",
+          "diss_me": 10107,
+          "iso_3166_2": "MC-X01~",
+          "wikipedia": "",
+          "iso_a2": "MC",
+          "adm0_sr": 5,
+          "name": "Monaco",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Monaco",
+          "latitude": 43.7461,
+          "longitude": 7.39979,
+          "admin": "Monaco",
+          "gn_a1_code": "00",
+          "min_zoom": 18
+        }
+      }]
+    }
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [518, 104],
+      [-30, -26],
+      [-20, -35],
+      [-7, -43],
+      [-45, 8],
+      [-44, 12],
+      [-41, 18],
+      [-38, 22],
+      [-49, -41],
+      [-82, -16],
+      [-90, 4],
+      [-72, 18],
+      [167, 101],
+      [31, 28],
+      [17, 67],
+      [-14, 54],
+      [-24, 53],
+      [-13, 63],
+      [26, 102]
+    ],
+    [
+      [190, 493],
+      [169, 0],
+      [143, 4]
+    ],
+    [
+      [502, 497],
+      [24, -91],
+      [23, -30]
+    ],
+    [
+      [549, 376],
+      [-63, -19],
+      [-32, -102],
+      [0, -80],
+      [36, -53],
+      [28, -18]
+    ],
+    [
+      [800, 304],
+      [-6, -36],
+      [-1, -37],
+      [-27, -41],
+      [-206, -102],
+      [0, 35],
+      [-42, -19]
+    ],
+    [
+      [549, 376],
+      [88, 22],
+      [75, -30],
+      [88, -64]
+    ],
+    [
+      [903, 799],
+      [-15, -197],
+      [-12, -32],
+      [-21, -32],
+      [-32, -70],
+      [1, -36],
+      [28, -75],
+      [-13, -15],
+      [-25, -11],
+      [-14, -27]
+    ],
+    [
+      [502, 497],
+      [-8, 49],
+      [55, 64],
+      [68, 106]
+    ],
+    [
+      [617, 716],
+      [32, 95]
+    ],
+    [
+      [649, 811],
+      [119, 0],
+      [135, -12]
+    ],
+    [
+      [522, 1014],
+      [52, 58],
+      [101, 17],
+      [110, -14],
+      [104, -61],
+      [-3, -14],
+      [-30, -27],
+      [40, -78],
+      [9, -67],
+      [-2, -29]
+    ],
+    [
+      [649, 811],
+      [-16, 94],
+      [-48, 64],
+      [-63, 45]
+    ],
+    [
+      [363, 833],
+      [159, 181]
+    ],
+    [
+      [617, 716],
+      [-71, 53],
+      [-92, 42],
+      [-91, 22]
+    ],
+    [
+      [190, 493],
+      [100, 180],
+      [3, 80],
+      [70, 80]
+    ],
+    [
+      [1747, 2077],
+      [-85, 23],
+      [-81, -21],
+      [-81, -39],
+      [-82, -29],
+      [17, 28],
+      [32, 73],
+      [17, 28],
+      [-15, 2],
+      [-51, -2],
+      [7, 18],
+      [29, 45],
+      [104, -30],
+      [62, 79],
+      [53, 109],
+      [74, 61],
+      [31, -75],
+      [-8, -84],
+      [-20, -91],
+      [-3, -95]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00020747833802024375, 0.00021754589554087074],
+    "translate": [-61.79051673099991, 12.002834377000056]
+  },
+  "objects": {
+    "grenada": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2, 3]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5072",
+          "diss_me": 5072,
+          "iso_3166_2": "GD-03",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint George",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint George",
+          "latitude": 12.0681,
+          "longitude": -61.7226,
+          "admin": "Grenada",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [4, -4, 5]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "DA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5071",
+          "diss_me": 5071,
+          "iso_3166_2": "GD-02",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint David",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint David",
+          "latitude": 12.055,
+          "longitude": -61.6617,
+          "admin": "Grenada",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [6, -6, -3, 7, 8, 9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5070",
+          "diss_me": 5070,
+          "iso_3166_2": "GD-01",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint Andrew",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Andrew",
+          "latitude": 12.1224,
+          "longitude": -61.6329,
+          "admin": "Grenada",
+          "gn_a1_code": "01",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10, -10, 11]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5075",
+          "diss_me": 5075,
+          "iso_3166_2": "GD-06",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint Patrick",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Patrick",
+          "latitude": 12.2147,
+          "longitude": -61.6342,
+          "admin": "Grenada",
+          "gn_a1_code": "06",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [12, -12, -9, 13]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5074",
+          "diss_me": 5074,
+          "iso_3166_2": "GD-05",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint Mark",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Mark",
+          "latitude": 12.189,
+          "longitude": -61.6749,
+          "admin": "Grenada",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [14, -14, -8, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "JO",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5073",
+          "diss_me": 5073,
+          "iso_3166_2": "GD-04",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Saint John",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint John",
+          "latitude": 12.1446,
+          "longitude": -61.7094,
+          "admin": "Grenada",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [15]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "CA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "GRD-5069",
+          "diss_me": 5069,
+          "iso_3166_2": "GD-10",
+          "wikipedia": "",
+          "iso_a2": "GD",
+          "adm0_sr": 1,
+          "name": "Carriacou and Petite Martinique",
+          "name_alt": "Southern Grenadine Islands",
+          "name_local": "",
+          "type_en": "Dependency",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "",
+          "latitude": 12.4733,
+          "longitude": -61.4461,
+          "admin": "Grenada",
+          "gn_a1_code": "10",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

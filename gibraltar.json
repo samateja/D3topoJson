@@ -1,0 +1,55 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [0, 150],
+      [144, 0],
+      [-8, -55],
+      [6, -30],
+      [-22, -65],
+      [-60, 43],
+      [-60, 107]
+    ]
+  ],
+  "transform": {
+    "scale": [0.0001362033001305206, 0.0002041285266657648],
+    "translate": [-5.358386758461411, 36.11050039300005]
+  },
+  "objects": {
+    "gibraltar": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GI",
+          "featurecla": "Admin-1 aggregation",
+          "scalerank": 10,
+          "adm1_code": "GIB+00?",
+          "diss_me": 10068,
+          "iso_3166_2": "GI-X01~",
+          "wikipedia": "",
+          "iso_a2": "GI",
+          "adm0_sr": 5,
+          "name": "Gibraltar",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Gibraltar",
+          "latitude": 36.1291,
+          "longitude": -5.34595,
+          "admin": "Gibraltar",
+          "gn_a1_code": "",
+          "min_zoom": 18
+        }
+      }]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [94, 0],
+      [-40, 45],
+      [-34, 79],
+      [-20, 80],
+      [4, 46],
+      [29, -22],
+      [217, -50],
+      [-24, -59],
+      [-37, -64],
+      [-45, -48],
+      [-50, -7]
+    ]
+  ],
+  "transform": {
+    "scale": [0.0003027343759999894, 0.00018863931999999297],
+    "translate": [-62.867339647999934, 17.881984768000052]
+  },
+  "objects": {
+    "saintBarthelemy": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SB",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "BLM-5113",
+          "diss_me": 5113,
+          "iso_3166_2": "BL-X00~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
+          "iso_a2": "BL",
+          "adm0_sr": 3,
+          "name": "Saint Barthélemy",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "97 7",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Barthélemy",
+          "latitude": 17.9017,
+          "longitude": -62.8288,
+          "admin": "Saint Barthelemy",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

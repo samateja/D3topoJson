@@ -1,0 +1,630 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [2161, 953],
+      [3, -58],
+      [-27, -287],
+      [-189, -256],
+      [-66, -39],
+      [-45, -9],
+      [-36, 2],
+      [-94, -9],
+      [-78, 14],
+      [-58, -8],
+      [-50, -35],
+      [-47, -95],
+      [-129, -43],
+      [-29, -53],
+      [-5, -5]
+    ],
+    [
+      [1311, 72],
+      [-85, 234]
+    ],
+    [
+      [1226, 306],
+      [-9, 72]
+    ],
+    [
+      [1217, 378],
+      [129, 150],
+      [91, 56],
+      [85, 35],
+      [37, 19],
+      [27, 20],
+      [112, 144],
+      [2, 11],
+      [-4, 4],
+      [-33, 19]
+    ],
+    [
+      [1663, 836],
+      [73, 50],
+      [35, 14],
+      [390, 53]
+    ],
+    [
+      [2027, 2243],
+      [13, -16],
+      [88, -256],
+      [15, -267],
+      [-64, -204],
+      [42, -11],
+      [38, -25],
+      [46, -14],
+      [-58, -265],
+      [14, -232]
+    ],
+    [
+      [1663, 836],
+      [14, 42],
+      [0, 8],
+      [-2, 14],
+      [-4, 12],
+      [-7, 15],
+      [-2, 5],
+      [0, 5],
+      [3, 12],
+      [-30, 22],
+      [-150, 75]
+    ],
+    [
+      [1485, 1046],
+      [1, 308],
+      [-66, 125]
+    ],
+    [
+      [1420, 1479],
+      [158, 290]
+    ],
+    [
+      [1578, 1769],
+      [175, 127],
+      [42, 23],
+      [3, -2],
+      [4, -1],
+      [3, -1],
+      [3, 0],
+      [7, 1],
+      [3, 0],
+      [6, -1],
+      [4, 0],
+      [6, 3],
+      [8, 5],
+      [15, 14],
+      [24, 15],
+      [3, 1],
+      [3, 0],
+      [15, 1],
+      [5, 0],
+      [5, 1],
+      [5, 3],
+      [9, 6],
+      [34, 26],
+      [5, 3],
+      [4, 1],
+      [2, 14],
+      [-6, 148],
+      [-4, 11],
+      [15, 26],
+      [51, 50]
+    ],
+    [
+      [365, 3139],
+      [110, -3],
+      [105, -30],
+      [112, -65],
+      [148, -167],
+      [119, -60],
+      [138, 55],
+      [114, 17],
+      [456, -138],
+      [17, -50],
+      [58, -111],
+      [92, -118],
+      [51, -70],
+      [142, -156]
+    ],
+    [
+      [1578, 1769],
+      [-50, 98],
+      [-140, 87],
+      [-54, 23],
+      [-36, 11],
+      [-28, 3],
+      [-29, 4],
+      [-34, 9],
+      [-95, 33],
+      [-12, 1],
+      [-10, -1],
+      [-38, -15],
+      [-37, -9],
+      [-54, -4],
+      [-44, 15],
+      [-33, 16],
+      [-118, 90]
+    ],
+    [
+      [766, 2130],
+      [-19, 63]
+    ],
+    [
+      [747, 2193],
+      [-22, 142],
+      [-12, 36],
+      [-60, 38],
+      [-8, 43],
+      [5, 211],
+      [-9, 79],
+      [-4, 1],
+      [-7, 8],
+      [-2, 1],
+      [-4, 1],
+      [-2, 1],
+      [-4, 0],
+      [-3, -1],
+      [-4, -1],
+      [-8, 1],
+      [-5, 0],
+      [-17, 6],
+      [-3, 2],
+      [-4, 3],
+      [-4, 6],
+      [-3, 3],
+      [-33, 10],
+      [-62, 48],
+      [-25, 32],
+      [-82, 276]
+    ],
+    [
+      [45, 2386],
+      [-8, 5],
+      [-37, 40],
+      [0, 68],
+      [45, 47],
+      [154, 83],
+      [47, 73],
+      [-63, 9],
+      [-112, 31],
+      [-71, 6],
+      [76, 85],
+      [107, 312],
+      [182, -6]
+    ],
+    [
+      [747, 2193],
+      [-511, 209],
+      [-3, -1],
+      [-6, -1],
+      [-7, 1],
+      [-39, 6],
+      [-4, -1],
+      [-48, 10],
+      [-8, 1],
+      [-8, -1],
+      [-6, 0],
+      [-21, 3],
+      [-7, -3],
+      [-3, -2],
+      [-31, -28]
+    ],
+    [
+      [309, 1926],
+      [-43, 47],
+      [-51, 24],
+      [-60, 38],
+      [-20, 88],
+      [-9, 177],
+      [-38, 56],
+      [-43, 30]
+    ],
+    [
+      [766, 2130],
+      [-167, -17],
+      [-63, -23],
+      [-13, -13],
+      [-9, -12],
+      [-56, -43],
+      [-149, -96]
+    ],
+    [
+      [671, 1371],
+      [-19, 115],
+      [-29, 64],
+      [-212, 161],
+      [-33, 60],
+      [-18, 70],
+      [-41, 74],
+      [-10, 11]
+    ],
+    [
+      [1420, 1479],
+      [-308, -111],
+      [-28, -3],
+      [-40, 4],
+      [-157, 29],
+      [-114, -2],
+      [-102, -25]
+    ],
+    [
+      [877, 813],
+      [-13, 143],
+      [-42, 131],
+      [-130, 214],
+      [-18, 52],
+      [-3, 18]
+    ],
+    [
+      [1485, 1046],
+      [-380, -150],
+      [-3, -5],
+      [-1, -3],
+      [-2, -3],
+      [-20, -51],
+      [-9, -11],
+      [-13, -10],
+      [-8, -1],
+      [-6, -1],
+      [-4, 0],
+      [-4, 1],
+      [-4, 0],
+      [-5, 0],
+      [-17, -4],
+      [-6, 0],
+      [-16, 1],
+      [-3, 0],
+      [-107, 4]
+    ],
+    [
+      [1065, 426],
+      [-1, 44],
+      [4, 31],
+      [-50, 83],
+      [-117, 104],
+      [-20, 87],
+      [-4, 38]
+    ],
+    [
+      [1217, 378],
+      [-152, 48]
+    ],
+    [
+      [1068, 258],
+      [-3, 168]
+    ],
+    [
+      [1226, 306],
+      [-158, -58],
+      [0, 10]
+    ],
+    [
+      [1311, 72],
+      [-40, -48],
+      [-111, -24],
+      [-104, 22],
+      [-18, 58],
+      [30, 178]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00010869148027211524, 0.00013737600190779633],
+    "translate": [-61.48892167899993, 15.20180898600006]
+  },
+  "objects": {
+    "dominica": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2, 3, 4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PK",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1439",
+          "diss_me": 1439,
+          "iso_3166_2": "DM-09",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Patrick",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "PK",
+          "sameascity": -99,
+          "woe_name": "Saint Patrick",
+          "latitude": 15.2768,
+          "longitude": -61.3052,
+          "admin": "Dominica",
+          "gn_a1_code": "09",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [5, -5, 6, 7, 8, 9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "DA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1433",
+          "diss_me": 1433,
+          "iso_3166_2": "DM-03",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint David",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "DA",
+          "sameascity": -99,
+          "woe_name": "Saint David",
+          "latitude": 15.3956,
+          "longitude": -61.2919,
+          "admin": "Dominica",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10, -10, 11, 12, 13]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1432",
+          "diss_me": 1432,
+          "iso_3166_2": "DM-02",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Andrew",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "AN",
+          "sameascity": -99,
+          "woe_name": "Saint Andrew",
+          "latitude": 15.5378,
+          "longitude": -61.3589,
+          "admin": "Dominica",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [14, -14, 15]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "JN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1435",
+          "diss_me": 1435,
+          "iso_3166_2": "DM-05",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint John",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "JN",
+          "sameascity": -99,
+          "woe_name": "Saint John",
+          "latitude": 15.5767,
+          "longitude": -61.4483,
+          "admin": "Dominica",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [16, -16, -13, 17]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PR",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1441",
+          "diss_me": 1441,
+          "iso_3166_2": "DM-11",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Peter",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "PR",
+          "sameascity": -99,
+          "woe_name": "Saint Peter",
+          "latitude": 15.4986,
+          "longitude": -61.4448,
+          "admin": "Dominica",
+          "gn_a1_code": "11",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [18, -18, -12, -9, 19]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "JH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1436",
+          "diss_me": 1436,
+          "iso_3166_2": "DM-06",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Joseph",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "JH",
+          "sameascity": -99,
+          "woe_name": "Saint Joseph",
+          "latitude": 15.4355,
+          "longitude": -61.3863,
+          "admin": "Dominica",
+          "gn_a1_code": "06",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [20, -20, -8, 21]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PL",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1440",
+          "diss_me": 1440,
+          "iso_3166_2": "DM-10",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Paul",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "PL",
+          "sameascity": -99,
+          "woe_name": "Saint Paul",
+          "latitude": 15.3529,
+          "longitude": -61.3717,
+          "admin": "Dominica",
+          "gn_a1_code": "10",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [22, -22, -7, -4, 23]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GO",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1434",
+          "diss_me": 1434,
+          "iso_3166_2": "DM-04",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint George",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "GO",
+          "sameascity": -99,
+          "woe_name": "Saint George",
+          "latitude": 15.3,
+          "longitude": -61.3489,
+          "admin": "Dominica",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [24, -24, -3, 25]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "LU",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1437",
+          "diss_me": 1437,
+          "iso_3166_2": "DM-07",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Luke",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "LU",
+          "sameascity": -99,
+          "woe_name": "Saint Luke",
+          "latitude": 15.2483,
+          "longitude": -61.3644,
+          "admin": "Dominica",
+          "gn_a1_code": "07",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [26, -26, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "DMA-1438",
+          "diss_me": 1438,
+          "iso_3166_2": "DM-08",
+          "wikipedia": "",
+          "iso_a2": "DM",
+          "adm0_sr": 1,
+          "name": "Saint Mark",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "MA",
+          "sameascity": -99,
+          "woe_name": "Saint Mark",
+          "latitude": 15.2217,
+          "longitude": -61.3612,
+          "admin": "Dominica",
+          "gn_a1_code": "08",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [1071, 784],
+      [-46, 58],
+      [-68, -34],
+      [-49, -45],
+      [-11, -54],
+      [-28, 9],
+      [-13, 39],
+      [31, 96],
+      [86, 77]
+    ],
+    [
+      [973, 930],
+      [82, -8]
+    ],
+    [
+      [1055, 922],
+      [19, -76],
+      [59, -28]
+    ],
+    [
+      [1133, 818],
+      [-62, -34]
+    ],
+    [
+      [1021, 725],
+      [50, 59]
+    ],
+    [
+      [1071, 784],
+      [42, -87]
+    ],
+    [
+      [1113, 697],
+      [-53, -46]
+    ],
+    [
+      [1060, 651],
+      [-39, 74]
+    ],
+    [
+      [850, 656],
+      [14, 21],
+      [26, -11],
+      [28, 2]
+    ],
+    [
+      [918, 668],
+      [-50, -55],
+      [-18, 43]
+    ],
+    [
+      [918, 668],
+      [75, 5],
+      [28, 52]
+    ],
+    [
+      [1060, 651],
+      [-58, -50],
+      [-124, -120]
+    ],
+    [
+      [878, 481],
+      [-60, 129]
+    ],
+    [
+      [818, 610],
+      [32, 46]
+    ],
+    [
+      [628, 493],
+      [109, 67],
+      [63, 24],
+      [18, 26]
+    ],
+    [
+      [878, 481],
+      [-15, -15],
+      [-85, -65],
+      [-35, -62]
+    ],
+    [
+      [743, 339],
+      [-37, 91],
+      [-71, -47]
+    ],
+    [
+      [635, 383],
+      [-7, 110]
+    ],
+    [
+      [543, 369],
+      [-65, 35],
+      [-51, 94],
+      [19, 32],
+      [182, -37]
+    ],
+    [
+      [635, 383],
+      [-32, -5]
+    ],
+    [
+      [603, 378],
+      [-1, 61],
+      [-55, -9],
+      [-4, -61]
+    ],
+    [
+      [603, 378],
+      [-60, -9]
+    ],
+    [
+      [527, 276],
+      [96, 75],
+      [12, 32]
+    ],
+    [
+      [743, 339],
+      [-19, -32],
+      [-115, -134],
+      [-30, -20]
+    ],
+    [
+      [579, 153],
+      [-52, 123]
+    ],
+    [
+      [464, 342],
+      [46, -28],
+      [-16, -21],
+      [-50, 11]
+    ],
+    [
+      [444, 304],
+      [20, 38]
+    ],
+    [
+      [315, 104],
+      [23, 62],
+      [55, 7],
+      [99, 76],
+      [35, 27]
+    ],
+    [
+      [579, 153],
+      [-124, -81],
+      [-35, -17]
+    ],
+    [
+      [420, 55],
+      [-33, 68],
+      [-72, -19]
+    ],
+    [
+      [444, 304],
+      [-55, -11],
+      [-56, 7],
+      [-16, 49],
+      [19, 17],
+      [50, -17],
+      [32, 13],
+      [21, 11],
+      [25, -31]
+    ],
+    [
+      [136, 186],
+      [-7, -58],
+      [39, -69],
+      [64, 0],
+      [83, 45]
+    ],
+    [
+      [420, 55],
+      [-112, -55],
+      [-90, 3],
+      [-69, 4],
+      [-92, 79],
+      [-22, 73]
+    ],
+    [
+      [35, 159],
+      [101, 27]
+    ],
+    [
+      [35, 159],
+      [-17, 52],
+      [-18, 96],
+      [56, -32],
+      [-8, 63],
+      [20, 86],
+      [-31, 87],
+      [43, -21],
+      [21, 52],
+      [28, -52],
+      [37, -48],
+      [-53, -59],
+      [-17, -101],
+      [-13, -30],
+      [30, -31],
+      [108, -17],
+      [0, -28],
+      [-85, 10]
+    ],
+    [
+      [1133, 818],
+      [102, -48],
+      [-122, -73]
+    ],
+    [
+      [973, 930],
+      [52, 106],
+      [95, 81],
+      [125, 135],
+      [169, -182],
+      [-46, -79],
+      [-2, -80],
+      [-28, 28],
+      [-41, 48],
+      [-80, 25],
+      [-26, -39],
+      [-37, 59],
+      [-99, -110]
+    ],
+    [
+      [1240, 1084],
+      [50, 40],
+      [-21, 60],
+      [-53, -44],
+      [24, -56]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00016857375058690878, 0.00011228479505131741],
+    "translate": [-64.88599398897043, 32.248077381595785]
+  },
+  "objects": {
+    "bermuda": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [
+            [0, 1, 2, 3]
+          ],
+          [
+            [4, 5, 6, 7]
+          ],
+          [
+            [8, 9]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "HA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5137",
+          "diss_me": 5137,
+          "iso_3166_2": "BM-HAM",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Hamilton",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "",
+          "latitude": 32.3454,
+          "longitude": -64.7197,
+          "admin": "Bermuda",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10, -8, 11, 12, 13, -10]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SM",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5142",
+          "diss_me": 5142,
+          "iso_3166_2": "BM-SMI",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Smith's",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Smith's",
+          "latitude": 32.3141,
+          "longitude": -64.7319,
+          "admin": "Bermuda",
+          "gn_a1_code": "09",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [14, -13, 15, 16, 17]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "DE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5136",
+          "diss_me": 5136,
+          "iso_3166_2": "BM-DEV",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Devonshire",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Devonshire",
+          "latitude": 32.3033,
+          "longitude": -64.7566,
+          "admin": "Bermuda",
+          "gn_a1_code": "01",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [18, -18, 19, 20]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5139",
+          "diss_me": 5139,
+          "iso_3166_2": "BM-PEM",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Pembroke",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Pembroke",
+          "latitude": 32.2995,
+          "longitude": -64.7997,
+          "admin": "Bermuda",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [21, -21]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "HC",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5134",
+          "diss_me": 5134,
+          "iso_3166_2": "BM-HA",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "City of Hamilton",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Hamilton",
+          "latitude": 32.2938,
+          "longitude": -64.7884,
+          "admin": "Bermuda",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [22, -17, 23, 24]
+          ],
+          [
+            [25, 26]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "PA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5138",
+          "diss_me": 5138,
+          "iso_3166_2": "BM-PAG",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Paget",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Paget",
+          "latitude": 32.2784,
+          "longitude": -64.7811,
+          "admin": "Bermuda",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [27, -25, 28, 29]
+          ],
+          [
+            [30, -27]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "WA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5144",
+          "diss_me": 5144,
+          "iso_3166_2": "BM-WAR",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Warwick",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Warwick",
+          "latitude": 32.2658,
+          "longitude": -64.8042,
+          "admin": "Bermuda",
+          "gn_a1_code": "11",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [31, -30, 32, 33]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SO",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5143",
+          "diss_me": 5143,
+          "iso_3166_2": "BM-SOU",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Southampton",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Southampton",
+          "latitude": 32.2524,
+          "longitude": -64.8375,
+          "admin": "Bermuda",
+          "gn_a1_code": "10",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [34, -34]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5141",
+          "diss_me": 5141,
+          "iso_3166_2": "BM-SAN",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 8,
+          "name": "Sandys",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Sandys",
+          "latitude": 32.2985,
+          "longitude": -64.8687,
+          "admin": "Bermuda",
+          "gn_a1_code": "08",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [35, -6, -4]
+          ],
+          [
+            [36, -2],
+            [37]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "SC",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5140",
+          "diss_me": 5140,
+          "iso_3166_2": "BM-SGE",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "Saint George's",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint George's",
+          "latitude": 32.3645,
+          "longitude": -64.6998,
+          "admin": "Bermuda",
+          "gn_a1_code": "07",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-38]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SG",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BMU-5135",
+          "diss_me": 5135,
+          "iso_3166_2": "BM-SG",
+          "wikipedia": "",
+          "iso_a2": "BM",
+          "adm0_sr": 3,
+          "name": "City of Saint George",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint George",
+          "latitude": 32.3747,
+          "longitude": -64.6742,
+          "admin": "Bermuda",
+          "gn_a1_code": "06",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

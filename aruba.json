@@ -1,0 +1,74 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [188, 466],
+      [173, -134],
+      [34, -36],
+      [25, -65],
+      [102, -126],
+      [10, -77],
+      [-32, -28],
+      [-60, 0],
+      [-62, 24],
+      [-42, 42],
+      [59, 0],
+      [0, 20],
+      [-97, 47],
+      [-198, 174],
+      [-59, 24],
+      [-29, 17],
+      [-12, 28],
+      [6, 30],
+      [26, 50],
+      [7, 28],
+      [-11, 47],
+      [-20, 42],
+      [-4, 32],
+      [35, 20],
+      [119, -136],
+      [30, -23]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00034884880639096173, 0.0003431640624000465],
+    "translate": [-70.06240800699993, 12.417669989000048]
+  },
+  "objects": {
+    "aruba": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ABW-5150",
+          "diss_me": 5150,
+          "iso_3166_2": "AW-X01~",
+          "wikipedia": "",
+          "iso_a2": "AW",
+          "adm0_sr": 3,
+          "name": "Aruba",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Aruba",
+          "latitude": 12.5147,
+          "longitude": -69.9689,
+          "admin": "Aruba",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

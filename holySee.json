@@ -1,0 +1,55 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [36, 150],
+      [108, -7],
+      [6, -143],
+      [-102, 0],
+      [-48, 34],
+      [6, 55],
+      [30, 61]
+    ]
+  ],
+  "transform": {
+    "scale": [0.000008809066666610004, 0.000007751980000231621],
+    "translate": [12.452714082000085, 41.90275194100009]
+  },
+  "objects": {
+    "holySee": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X01~",
+          "featurecla": "Admin-1 aggregation",
+          "scalerank": 10,
+          "adm1_code": "VAT+00?",
+          "diss_me": 20002,
+          "iso_3166_2": "VA-X01~",
+          "wikipedia": "",
+          "iso_a2": "VA",
+          "adm0_sr": 5,
+          "name": "Vatican",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": 1,
+          "woe_name": "Vatican",
+          "latitude": 41.9034,
+          "longitude": 12.4534,
+          "admin": "Vatican",
+          "gn_a1_code": "",
+          "min_zoom": 18
+        }
+      }]
+    }
+  }
+}

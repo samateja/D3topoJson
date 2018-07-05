@@ -1,0 +1,462 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [3544, 548],
+      [-44, -19],
+      [-2, -46],
+      [26, -127],
+      [-42, -61],
+      [-94, 39],
+      [-92, 73],
+      [-40, 39],
+      [-39, -9],
+      [-117, -49]
+    ],
+    [
+      [3100, 388],
+      [-39, 83],
+      [18, 58],
+      [-41, 68]
+    ],
+    [
+      [3038, 597],
+      [47, 42],
+      [127, 31],
+      [59, -10]
+    ],
+    [
+      [3271, 660],
+      [145, 0],
+      [87, 21]
+    ],
+    [
+      [3503, 681],
+      [41, -133]
+    ],
+    [
+      [3609, 829],
+      [75, 2],
+      [77, 36],
+      [43, 0],
+      [29, -25],
+      [19, -25],
+      [26, -58],
+      [-39, 2],
+      [-78, -5],
+      [-39, 3],
+      [53, -58],
+      [49, -27],
+      [28, -28],
+      [-13, -60],
+      [-64, -89],
+      [-65, -4],
+      [-73, 33],
+      [-93, 22]
+    ],
+    [
+      [3503, 681],
+      [29, 100],
+      [77, 48]
+    ],
+    [
+      [3372, 938],
+      [5, 45],
+      [16, 30],
+      [54, 65],
+      [32, -44],
+      [44, -25],
+      [56, -9],
+      [65, 8],
+      [-27, -27],
+      [-16, -20],
+      [-25, -13],
+      [-52, -10],
+      [26, -74],
+      [59, -35]
+    ],
+    [
+      [3271, 660],
+      [0, 58]
+    ],
+    [
+      [3271, 718],
+      [40, 73],
+      [64, 21],
+      [-6, 53],
+      [-29, 42],
+      [32, 31]
+    ],
+    [
+      [3161, 1199],
+      [73, -92],
+      [43, -106],
+      [95, -63]
+    ],
+    [
+      [3271, 718],
+      [-41, 15],
+      [-82, 48],
+      [12, 57],
+      [-17, 111],
+      [-47, 37],
+      [-6, 105],
+      [82, 5],
+      [-11, 103]
+    ],
+    [
+      [2746, 797],
+      [-40, 14],
+      [-119, 56],
+      [63, 52],
+      [101, 37],
+      [131, 34],
+      [-46, 68],
+      [10, 61],
+      [52, 54],
+      [82, 46],
+      [181, -20]
+    ],
+    [
+      [3038, 597],
+      [-29, 58],
+      [-87, -84],
+      [23, 131],
+      [29, 58],
+      [-6, 15],
+      [-99, 21],
+      [-52, 42],
+      [-71, -41]
+    ],
+    [
+      [3100, 388],
+      [-78, -12],
+      [-119, -1],
+      [-74, 14],
+      [-182, 96],
+      [-38, 47],
+      [38, 70],
+      [25, 59],
+      [-20, 50],
+      [2, 45],
+      [92, 41]
+    ],
+    [
+      [2902, 3404],
+      [-73, -35],
+      [-32, 74],
+      [-12, 210],
+      [-26, 94],
+      [-33, 79],
+      [-23, 81],
+      [5, 100],
+      [20, -17],
+      [9, -16],
+      [9, -40],
+      [35, -63],
+      [91, -94],
+      [30, -54],
+      [-2, -72],
+      [-22, -61],
+      [0, -48],
+      [66, -33],
+      [29, 96],
+      [8, 131],
+      [-35, 116],
+      [-103, 50],
+      [-41, 56],
+      [27, 99],
+      [79, 38],
+      [114, -126],
+      [-38, -20],
+      [-40, -15],
+      [76, -23],
+      [119, 35],
+      [74, -12],
+      [92, -61],
+      [79, -81],
+      [63, -90],
+      [42, -84],
+      [41, -155],
+      [5, -85],
+      [-11, -80],
+      [-38, -97],
+      [-39, -17],
+      [-59, 4],
+      [-97, -30],
+      [-36, 92],
+      [-101, 65],
+      [-252, 89]
+    ],
+    [
+      [15, 37],
+      [6, 6],
+      [9, 3],
+      [0, -13],
+      [0, -17],
+      [-8, -13],
+      [-15, -3],
+      [-7, 9],
+      [6, 19],
+      [9, 9]
+    ]
+  ],
+  "transform": {
+    "scale": [0.000175520477653396, 0.0001943146012453159],
+    "translate": [-62.34826033833981, 16.931969600900484]
+  },
+  "objects": {
+    "antiguaAndBarbuda": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2, 3, 4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5096",
+          "diss_me": 5096,
+          "iso_3166_2": "AG-06",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_Paul_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint Paul",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Paul",
+          "latitude": 17.0352,
+          "longitude": -61.7671,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "06",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [5, -5, 6]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PH",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5095",
+          "diss_me": 5095,
+          "iso_3166_2": "AG-08",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_Philip_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint Philip",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Philip",
+          "latitude": 17.0601,
+          "longitude": -61.7021,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "08",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [7, -7, -4, 8, 9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "PE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5094",
+          "diss_me": 5094,
+          "iso_3166_2": "AG-07",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_Peter_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint Peter",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Peter",
+          "latitude": 17.0935,
+          "longitude": -61.7404,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "07",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10, -10, 11]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5093",
+          "diss_me": 5093,
+          "iso_3166_2": "AG-03",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_George_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint George",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint George",
+          "latitude": 17.1084,
+          "longitude": -61.7804,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [12, -12, -9, -3, 13]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "JO",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5098",
+          "diss_me": 5098,
+          "iso_3166_2": "AG-04",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_John_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint John",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint John",
+          "latitude": 17.1101,
+          "longitude": -61.8237,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [14, -14, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5097",
+          "diss_me": 5097,
+          "iso_3166_2": "AG-05",
+          "wikipedia": "http://en.wikipedia.org/wiki/Saint_Mary_Parish_(Antigua_and_Barbuda)",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Saint Mary",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Parish",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Saint Mary",
+          "latitude": 17.0368,
+          "longitude": -61.857,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [15]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "BB",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5091",
+          "diss_me": 5091,
+          "iso_3166_2": "AG-10",
+          "wikipedia": "http://en.wikipedia.org/wiki/Barbuda",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Barbuda",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Dependency",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Barbuda",
+          "latitude": 17.6155,
+          "longitude": -61.792,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "01",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [16]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "RD",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "ATG-5092",
+          "diss_me": 5092,
+          "iso_3166_2": "AG-11",
+          "wikipedia": "http://en.wikipedia.org/wiki/Redonda",
+          "iso_a2": "AG",
+          "adm0_sr": 1,
+          "name": "Redonda",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "Dependency",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "",
+          "latitude": 16.9335,
+          "longitude": -62.3467,
+          "admin": "Antigua and Barbuda",
+          "gn_a1_code": "09",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

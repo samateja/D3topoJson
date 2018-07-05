@@ -1,0 +1,74 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [466, 405],
+      [79, -51],
+      [-11, -110],
+      [-62, -109],
+      [-75, -46],
+      [-22, -17],
+      [-14, -20],
+      [-9, -24],
+      [1, -28],
+      [-39, 94],
+      [-66, 59],
+      [-69, 5],
+      [-46, -69],
+      [-40, 0],
+      [-14, 70],
+      [-27, 66],
+      [-12, 59],
+      [26, 50],
+      [49, 61],
+      [4, 47],
+      [-38, 23],
+      [-81, -19],
+      [93, 92],
+      [123, -24],
+      [132, -69],
+      [118, -40]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00015454773577970493, 0.0001533820278810458],
+    "translate": [167.9121199880001, -29.080010674999926]
+  },
+  "objects": {
+    "norfolkIsland": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "NF",
+          "featurecla": "Admin-1 aggregation",
+          "scalerank": 10,
+          "adm1_code": "NFK+00?",
+          "diss_me": 10124,
+          "iso_3166_2": "NF-X01~",
+          "wikipedia": "",
+          "iso_a2": "NF",
+          "adm0_sr": 5,
+          "name": "Norfolk Island",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Norfolk Island",
+          "latitude": -29.033,
+          "longitude": 167.954,
+          "admin": "Norfolk Island",
+          "gn_a1_code": "",
+          "min_zoom": 9
+        }
+      }]
+    }
+  }
+}

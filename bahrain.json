@@ -1,0 +1,385 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [652, 2636],
+      [66, -9],
+      [85, -26],
+      [68, -22],
+      [1, 0],
+      [218, 59],
+      [34, -15],
+      [22, -52],
+      [39, -36],
+      [12, -17],
+      [11, -16],
+      [-29, -42],
+      [-50, -10],
+      [-151, 14],
+      [-74, -18]
+    ],
+    [
+      [904, 2446],
+      [-87, 77],
+      [-175, 10],
+      [10, 103]
+    ],
+    [
+      [583, 1864],
+      [-30, 150],
+      [-80, 147],
+      [-90, 107],
+      [-22, 48],
+      [4, 65],
+      [61, 188],
+      [39, 47],
+      [68, 22],
+      [1, 0],
+      [5, 0],
+      [113, -2]
+    ],
+    [
+      [904, 2446],
+      [-157, -23],
+      [-63, -43],
+      [77, -194]
+    ],
+    [
+      [761, 2186],
+      [35, -100],
+      [42, -190],
+      [-126, -36],
+      [-129, 4]
+    ],
+    [
+      [91, 2368],
+      [56, -13],
+      [57, -21],
+      [0, -68],
+      [12, -56],
+      [11, -60],
+      [-97, 17],
+      [-102, -4],
+      [-28, 64],
+      [11, 81],
+      [80, 60]
+    ],
+    [
+      [1246, 2055],
+      [23, -172],
+      [-12, -351],
+      [-78, -438],
+      [-48, -87],
+      [-154, -172],
+      [-1, 0],
+      [-35, 120],
+      [-60, 132],
+      [-84, 129],
+      [-105, 110],
+      [-231, 178],
+      [-39, 110],
+      [104, 134],
+      [28, 58],
+      [29, 58]
+    ],
+    [
+      [761, 2186],
+      [237, -53],
+      [63, 27],
+      [185, -105]
+    ],
+    [
+      [2081, 564],
+      [44, -5],
+      [43, 23],
+      [54, 20],
+      [0, -25],
+      [-14, -35],
+      [-40, -41],
+      [-40, -35],
+      [27, -18],
+      [40, -30],
+      [-20, -20],
+      [-64, 10],
+      [-30, -15],
+      [-43, -28],
+      [-20, -15],
+      [23, -53],
+      [40, -37],
+      [10, -26],
+      [-37, -10],
+      [-20, -25],
+      [-6, -33],
+      [30, -15],
+      [23, -23],
+      [-33, -22],
+      [-30, -35],
+      [-27, -36],
+      [13, -25],
+      [-16, -10],
+      [-61, 20],
+      [-40, 43],
+      [20, 38],
+      [40, 63],
+      [-3, 38],
+      [0, 55],
+      [-47, 35],
+      [4, 36],
+      [6, 47],
+      [20, 53],
+      [54, 58],
+      [70, 58],
+      [30, 20]
+    ],
+    [
+      [2088, 688],
+      [40, 12],
+      [37, -2],
+      [6, -25],
+      [-56, -15],
+      [-27, 30]
+    ],
+    [
+      [2242, 396],
+      [80, -3],
+      [-17, -38],
+      [-43, -20],
+      [-24, 23],
+      [-10, 20],
+      [14, 18]
+    ],
+    [
+      [2182, 287],
+      [33, -2],
+      [64, -8],
+      [26, -20],
+      [-6, -30],
+      [-20, -20],
+      [-21, 5],
+      [-26, 5],
+      [-37, -5],
+      [-27, -10],
+      [-23, 32],
+      [10, 20],
+      [-17, 18],
+      [10, 18],
+      [34, -3]
+    ],
+    [
+      [904, 2446],
+      [228, -135],
+      [54, 57],
+      [79, 43],
+      [34, -60],
+      [34, -94],
+      [68, -4],
+      [-53, -45],
+      [-3, -75],
+      [-107, -18],
+      [8, -60]
+    ],
+    [
+      [1169, 2783],
+      [164, 34],
+      [119, -43],
+      [6, -60],
+      [0, -59],
+      [79, -77],
+      [68, -22],
+      [-28, -55],
+      [-28, -22],
+      [-85, 35],
+      [-23, 55],
+      [-28, 56],
+      [-74, 13],
+      [-68, 8],
+      [-46, -13],
+      [-68, 86],
+      [12, 64]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00018920999343563058, 0.0002511707041247385],
+    "translate": [50.38052953694195, 25.579890923319237]
+  },
+  "objects": {
+    "bahrain": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "CP",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BHR-4929",
+          "diss_me": 4929,
+          "iso_3166_2": "BH-13",
+          "wikipedia": "http://en.wikipedia.org/wiki/Al_Man%C4%81mah_Governorate",
+          "iso_a2": "BH",
+          "adm0_sr": 1,
+          "name": "Al Manāmah",
+          "name_alt": "Muhafazat al-'Asimah|Capital",
+          "name_local": "محافظة العاصمة",
+          "type_en": "Governorate",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Capital",
+          "latitude": 26.2204,
+          "longitude": 50.5777,
+          "admin": "Bahrain",
+          "gn_a1_code": "16",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [2, -2, 3, 4]
+          ],
+          [
+            [5]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "NN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BHR-4927",
+          "diss_me": 4927,
+          "iso_3166_2": "BH-17",
+          "wikipedia": "http://en.wikipedia.org/wiki/Ash_Sham%C4%81l%C4%AByah_Governorate",
+          "iso_a2": "BH",
+          "adm0_sr": 1,
+          "name": "Ash Shamālīyah",
+          "name_alt": "Al Muhafazah ash Shamaliyah‎|Northern",
+          "name_local": "لمحافظة الشمالية",
+          "type_en": "Governorate",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Northern",
+          "latitude": 26.1624,
+          "longitude": 50.4868,
+          "admin": "Bahrain",
+          "gn_a1_code": "19",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [6, -5, 7]
+          ],
+          [
+            [8]
+          ],
+          [
+            [9]
+          ],
+          [
+            [10]
+          ],
+          [
+            [11]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "SN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BHR-4926",
+          "diss_me": 4926,
+          "iso_3166_2": "BH-14",
+          "wikipedia": "http://en.wikipedia.org/wiki/Al_Jan%C5%ABb%C4%AByah_Governorate_(Bahrain)",
+          "iso_a2": "BH",
+          "adm0_sr": 1,
+          "name": "Al Janūbīyah",
+          "name_alt": "al-Muhafazah al-Janobiyah|Southern",
+          "name_local": "المحافظة الجنوبية",
+          "type_en": "Governorate",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Southern",
+          "latitude": 25.9688,
+          "longitude": 50.5622,
+          "admin": "Bahrain",
+          "gn_a1_code": "17",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [12, -8, -4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "CE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BHR-4928",
+          "diss_me": 4928,
+          "iso_3166_2": "BH-16",
+          "wikipedia": "http://en.wikipedia.org/wiki/Al_Wus%C5%A3%C3%A1_Governorate_(Bahrain)",
+          "iso_a2": "BH",
+          "adm0_sr": 1,
+          "name": "Al Wusţá",
+          "name_alt": "Al Muhafazah al Wustah|Central",
+          "name_local": "لمحافظة الوسطى",
+          "type_en": "Governorate",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Central",
+          "latitude": 26.1373,
+          "longitude": 50.5738,
+          "admin": "Bahrain",
+          "gn_a1_code": "18",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [13]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MU",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "BHR-4930",
+          "diss_me": 4930,
+          "iso_3166_2": "BH-15",
+          "wikipedia": "http://en.wikipedia.org/wiki/Al_Mu%E1%B8%A9arraq_Governorate",
+          "iso_a2": "BH",
+          "adm0_sr": 1,
+          "name": "Al Muḩarraq",
+          "name_alt": "Muhafazat al-Muharaq",
+          "name_local": "محافظة المحرق‎",
+          "type_en": "Governorate",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Muharraq",
+          "latitude": 26.261,
+          "longitude": 50.6376,
+          "admin": "Bahrain",
+          "gn_a1_code": "15",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

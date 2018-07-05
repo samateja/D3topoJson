@@ -1,0 +1,697 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [1005, 1695],
+      [53, 0],
+      [53, -12],
+      [52, -27],
+      [49, -49],
+      [139, -186]
+    ],
+    [
+      [1351, 1421],
+      [-180, -10],
+      [-33, -224]
+    ],
+    [
+      [1138, 1187],
+      [-88, 3]
+    ],
+    [
+      [1050, 1190],
+      [-105, 3]
+    ],
+    [
+      [945, 1193],
+      [-56, 2]
+    ],
+    [
+      [889, 1195],
+      [116, 500]
+    ],
+    [
+      [2336, 693],
+      [54, -14]
+    ],
+    [
+      [2390, 679],
+      [2, -156],
+      [-49, 13],
+      [-7, 157]
+    ],
+    [
+      [2241, 146],
+      [-52, -8]
+    ],
+    [
+      [2189, 138],
+      [10, 181],
+      [57, -6]
+    ],
+    [
+      [2256, 313],
+      [-15, -167]
+    ],
+    [
+      [347, 1525],
+      [57, 36],
+      [27, 9],
+      [53, 5],
+      [31, 9],
+      [65, 39],
+      [28, 11],
+      [190, 0],
+      [49, 9],
+      [102, 40],
+      [56, 12]
+    ],
+    [
+      [889, 1195],
+      [-397, 12]
+    ],
+    [
+      [492, 1207],
+      [-128, 94]
+    ],
+    [
+      [364, 1301],
+      [-17, 224]
+    ],
+    [
+      [191, 1253],
+      [-37, 40],
+      [-7, 14],
+      [-3, 30],
+      [-6, 16],
+      [-14, 9],
+      [-32, -4],
+      [-13, 5],
+      [-27, 38],
+      [-37, 66],
+      [-15, 63],
+      [39, 28],
+      [82, 0],
+      [90, -39],
+      [82, -3],
+      [54, 9]
+    ],
+    [
+      [364, 1301],
+      [-60, 44],
+      [-113, -92]
+    ],
+    [
+      [419, 1034],
+      [-33, 15],
+      [-25, 17],
+      [-52, 94],
+      [-31, 44],
+      [-63, 28],
+      [-24, 21]
+    ],
+    [
+      [492, 1207],
+      [-73, -173]
+    ],
+    [
+      [1120, 809],
+      [-87, -37]
+    ],
+    [
+      [1033, 772],
+      [-88, 421]
+    ],
+    [
+      [1050, 1190],
+      [70, -381]
+    ],
+    [
+      [1033, 772],
+      [-34, -14],
+      [-373, -47],
+      [-23, 19],
+      [-25, 39],
+      [-19, 22],
+      [-40, 25],
+      [-18, 17],
+      [-8, 25],
+      [-5, 27],
+      [-23, 57],
+      [-5, 35],
+      [-12, 35],
+      [-29, 22]
+    ],
+    [
+      [1375, 724],
+      [-15, -13],
+      [-57, 1],
+      [-25, 6],
+      [-26, 14],
+      [-38, 38],
+      [-20, 28],
+      [-23, 15],
+      [-51, -4]
+    ],
+    [
+      [1138, 1187],
+      [138, -335],
+      [45, -46],
+      [54, -82]
+    ],
+    [
+      [1351, 1421],
+      [2, -13],
+      [-4, -32],
+      [2, -13],
+      [13, -13],
+      [29, -14],
+      [11, -14],
+      [8, -30],
+      [5, -31],
+      [1, -66],
+      [12, -55],
+      [21, -33],
+      [14, -37],
+      [-12, -63],
+      [-24, -45],
+      [-28, -35],
+      [-23, -41],
+      [-9, -67],
+      [7, -66],
+      [-1, -29]
+    ],
+    [
+      [2933, 448],
+      [24, -53],
+      [-4, -29]
+    ],
+    [
+      [2953, 366],
+      [-64, -7],
+      [-16, -118],
+      [83, -40],
+      [94, 20],
+      [82, -46],
+      [38, 65]
+    ],
+    [
+      [3170, 240],
+      [76, -106],
+      [-25, -90],
+      [7, -11],
+      [11, -30],
+      [-62, -3],
+      [-171, 21],
+      [-102, -11],
+      [-47, 4],
+      [-50, 30],
+      [-39, -25],
+      [-40, 3]
+    ],
+    [
+      [2728, 22],
+      [-32, 330],
+      [37, 170]
+    ],
+    [
+      [2733, 522],
+      [105, -14],
+      [52, -23]
+    ],
+    [
+      [2890, 485],
+      [-34, -67],
+      [28, -6],
+      [49, 36]
+    ],
+    [
+      [2890, 485],
+      [43, -37]
+    ],
+    [
+      [2953, 366],
+      [-16, -17],
+      [-10, -20],
+      [13, -32],
+      [109, 13],
+      [121, -70]
+    ],
+    [
+      [2390, 679],
+      [343, -157]
+    ],
+    [
+      [2728, 22],
+      [-77, 22],
+      [-38, -4],
+      [-104, -37],
+      [-25, 1],
+      [-21, 8],
+      [-14, 16],
+      [-6, 24],
+      [-10, 24],
+      [-24, 12],
+      [-48, 13],
+      [-43, 26],
+      [-38, 16],
+      [-39, 3]
+    ],
+    [
+      [2256, 313],
+      [9, 105],
+      [-22, 99],
+      [-11, 191]
+    ],
+    [
+      [2232, 708],
+      [56, -3],
+      [48, -12]
+    ],
+    [
+      [1907, 645],
+      [66, 28],
+      [205, 38],
+      [54, -3]
+    ],
+    [
+      [2189, 138],
+      [-43, -6],
+      [-43, 1],
+      [-37, 15],
+      [-35, 31],
+      [-50, 93],
+      [-26, 34],
+      [-23, -9],
+      [-16, 0],
+      [-42, 70],
+      [-29, 21],
+      [-54, 7]
+    ],
+    [
+      [1791, 395],
+      [165, 122],
+      [-49, 128]
+    ],
+    [
+      [1755, 548],
+      [27, 45],
+      [39, 16]
+    ],
+    [
+      [1821, 609],
+      [24, -66],
+      [-33, -20],
+      [-57, 25]
+    ],
+    [
+      [1821, 609],
+      [86, 36]
+    ],
+    [
+      [1791, 395],
+      [-49, 26],
+      [-7, 61],
+      [20, 66]
+    ]
+  ],
+  "transform": {
+    "scale": [0.0004143220341959302, 0.00034808643657818485],
+    "translate": [-172.7825821609999, -14.05282968499995]
+  },
+  "objects": {
+    "samoa": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [
+            [0, 1, 2, 3, 4, 5]
+          ],
+          [
+            [6, 7]
+          ],
+          [
+            [8, 9, 10]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "GE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4990",
+          "diss_me": 4990,
+          "iso_3166_2": "WS-GE",
+          "wikipedia": "http://en.wikipedia.org/wiki/Gaga%27emauga",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Gaga'emauga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Gaga`emauga",
+          "latitude": -13.9658,
+          "longitude": -171.861,
+          "admin": "Samoa",
+          "gn_a1_code": "05",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [11, -6, 12, 13, 14]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "GI",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4991",
+          "diss_me": 4991,
+          "iso_3166_2": "WS-GI",
+          "wikipedia": "http://en.wikipedia.org/wiki/Gaga%27ifomauga",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Gaga'ifomauga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Gagaifomauga",
+          "latitude": -13.5461,
+          "longitude": -172.467,
+          "admin": "Samoa",
+          "gn_a1_code": "07",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [15, -15, 16]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "VS",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4992",
+          "diss_me": 4992,
+          "iso_3166_2": "WS-VS",
+          "wikipedia": "http://en.wikipedia.org/wiki/Vaisigano",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Vaisigano",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Vaisigano",
+          "latitude": -13.5561,
+          "longitude": -172.701,
+          "admin": "Samoa",
+          "gn_a1_code": "11",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [
+            [17, -17, -14, 18]
+          ],
+          [
+            [19, 20, -4, 21]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "SA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4993",
+          "diss_me": 4993,
+          "iso_3166_2": "WS-SA",
+          "wikipedia": "http://en.wikipedia.org/wiki/Satupa%27itea",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Satupa'itea",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Satupa`itea",
+          "latitude": -13.6365,
+          "longitude": -172.635,
+          "admin": "Samoa",
+          "gn_a1_code": "09",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [
+            [22, -19, -13, -5, -21]
+          ],
+          [
+            [23, -22, -3, 24]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "PA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4994",
+          "diss_me": 4994,
+          "iso_3166_2": "WS-PA",
+          "wikipedia": "http://en.wikipedia.org/wiki/Palauli",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Palauli",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Palauli",
+          "latitude": -13.7195,
+          "longitude": -172.454,
+          "admin": "Samoa",
+          "gn_a1_code": "08",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [25, -25, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "FA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4989",
+          "diss_me": 4989,
+          "iso_3166_2": "WS-FA",
+          "wikipedia": "http://en.wikipedia.org/wiki/Fa%27asaleleaga",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Fa'asaleleaga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Fa`asaleleaga",
+          "latitude": -13.6516,
+          "longitude": -172.243,
+          "admin": "Samoa",
+          "gn_a1_code": "04",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [26, 27, 28, 29, 30, 31]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AT",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4987",
+          "diss_me": 4987,
+          "iso_3166_2": "WS-AT",
+          "wikipedia": "http://en.wikipedia.org/wiki/Atua_(district)",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Atua",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Atua",
+          "latitude": -14.0212,
+          "longitude": -171.592,
+          "admin": "Samoa",
+          "gn_a1_code": "03",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [
+            [32, -32]
+          ],
+          [
+            [33, -28]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "VF",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4988",
+          "diss_me": 4988,
+          "iso_3166_2": "WS-VF",
+          "wikipedia": "http://en.wikipedia.org/wiki/Va%27a-o-Fonoti",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Va'a-o-Fonoti",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Va`a-o-Fonoti",
+          "latitude": -13.9633,
+          "longitude": -171.549,
+          "admin": "Samoa",
+          "gn_a1_code": "06",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [34, -30, 35, -11, 36, 37, -8]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "TU",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4984",
+          "diss_me": 4984,
+          "iso_3166_2": "WS-TU",
+          "wikipedia": "http://en.wikipedia.org/wiki/Tuamasaga",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Tuamasaga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Tuamasaga",
+          "latitude": -13.9415,
+          "longitude": -171.752,
+          "admin": "Samoa",
+          "gn_a1_code": "10",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [
+            [38, -37, -10, 39, 40]
+          ],
+          [
+            [41, 42]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "AA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4985",
+          "diss_me": 4985,
+          "iso_3166_2": "WS-AA",
+          "wikipedia": "http://en.wikipedia.org/wiki/A%27ana",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "A'ana",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "A`ana",
+          "latitude": -13.9005,
+          "longitude": -171.919,
+          "admin": "Samoa",
+          "gn_a1_code": "01",
+          "min_zoom": 9
+        }
+      }, {
+        "arcs": [
+          [43, -41, 44, -43]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AL",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 5,
+          "adm1_code": "WSM-4986",
+          "diss_me": 4986,
+          "iso_3166_2": "WS-AL",
+          "wikipedia": "http://en.wikipedia.org/wiki/Aiga-i-le-Tai",
+          "iso_a2": "WS",
+          "adm0_sr": 1,
+          "name": "Aiga-i-le-Tai",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Aiga-i-le-Tai",
+          "latitude": -13.8904,
+          "longitude": -172.039,
+          "admin": "Samoa",
+          "gn_a1_code": "02",
+          "min_zoom": 9
+        }
+      }]
+    }
+  }
+}

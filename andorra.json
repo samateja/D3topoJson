@@ -1,0 +1,399 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [752, 1379],
+      [6, -110],
+      [0, -63],
+      [-41, -22],
+      [-53, -21],
+      [-41, -53],
+      [-27, -69],
+      [-8, -85]
+    ],
+    [
+      [588, 956],
+      [-38, 5],
+      [-53, 11],
+      [-68, 21],
+      [-55, 22],
+      [-35, 47],
+      [-24, 91],
+      [-20, 37],
+      [-41, 10],
+      [-44, 0],
+      [-33, 37]
+    ],
+    [
+      [177, 1237],
+      [61, 282],
+      [124, -9],
+      [116, 59],
+      [60, 6],
+      [214, -196]
+    ],
+    [
+      [752, 1379],
+      [43, -27],
+      [448, -59],
+      [-34, -145],
+      [64, -54],
+      [91, -38],
+      [33, -64],
+      [16, -31],
+      [-99, -12],
+      [-72, -94],
+      [-18, -61]
+    ],
+    [
+      [1224, 794],
+      [-27, 35],
+      [-38, 32],
+      [-41, 26],
+      [-15, 90],
+      [-14, 64],
+      [-56, -32],
+      [-76, 0],
+      [-82, -16],
+      [-94, -26],
+      [-76, 0],
+      [-56, 0],
+      [-61, -11]
+    ],
+    [
+      [1224, 794],
+      [-26, -87],
+      [-14, -178],
+      [-37, -60],
+      [-44, -27],
+      [-48, -1],
+      [-47, 23],
+      [-10, 22],
+      [-11, 6]
+    ],
+    [
+      [987, 492],
+      [-13, 87],
+      [-49, 59],
+      [-47, 32],
+      [-82, 10],
+      [-62, -16],
+      [-53, 37],
+      [-11, 64],
+      [-30, 21],
+      [-49, -5]
+    ],
+    [
+      [591, 781],
+      [0, 101],
+      [-3, 74]
+    ],
+    [
+      [591, 781],
+      [-50, 0],
+      [-47, -27],
+      [-56, -15],
+      [-58, -53],
+      [-62, -48]
+    ],
+    [
+      [318, 638],
+      [-56, -21],
+      [-52, -38],
+      [-39, -41]
+    ],
+    [
+      [171, 538],
+      [-13, 113],
+      [-69, 83],
+      [-89, -16],
+      [13, 81],
+      [65, 151],
+      [1, 28],
+      [-33, 29],
+      [4, 68],
+      [22, 72],
+      [18, 43],
+      [87, 47]
+    ],
+    [
+      [318, 638],
+      [6, -64],
+      [3, -42],
+      [15, -69],
+      [23, -32]
+    ],
+    [
+      [365, 431],
+      [67, -21],
+      [53, -27],
+      [73, 16],
+      [65, 11],
+      [41, -11],
+      [-27, -64],
+      [6, -74],
+      [12, -87]
+    ],
+    [
+      [655, 174],
+      [-111, -19],
+      [-22, -34],
+      [-17, -41],
+      [-25, -40],
+      [-46, -34],
+      [-32, -6],
+      [-239, 43],
+      [-45, 45],
+      [0, 89],
+      [-114, 238],
+      [67, 40],
+      [23, 8],
+      [77, 75]
+    ],
+    [
+      [987, 492],
+      [-12, -8],
+      [-14, -22],
+      [-43, -193],
+      [-126, -71],
+      [-137, -24]
+    ],
+    [
+      [365, 431],
+      [32, 26],
+      [47, 37],
+      [32, 75],
+      [24, 58],
+      [20, 37],
+      [44, 59],
+      [27, 58]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00025381064472756494, 0.00014011695492062217],
+    "translate": [1.4064563390001013, 42.42867747000004]
+  },
+  "objects": {
+    "andorra": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "OR",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4878",
+          "diss_me": 4878,
+          "iso_3166_2": "AD-05",
+          "wikipedia": "http://en.wikipedia.org/wiki/Ordino",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Ordino",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Ordino",
+          "latitude": 42.6036,
+          "longitude": 1.52437,
+          "admin": "Andorra",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [3, 4, -1]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "CA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4879",
+          "diss_me": 4879,
+          "iso_3166_2": "AD-02",
+          "wikipedia": "http://en.wikipedia.org/wiki/Canillo",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Canillo",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Canillo",
+          "latitude": 42.5842,
+          "longitude": 1.60543,
+          "admin": "Andorra",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [5, 6, 7, -5]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "EN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4880",
+          "diss_me": 4880,
+          "iso_3166_2": "AD-03",
+          "wikipedia": "http://en.wikipedia.org/wiki/Encamp",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Encamp",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Encamp",
+          "latitude": 42.5381,
+          "longitude": 1.6441,
+          "admin": "Andorra",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-2, -8, 8, 9, 10]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "MA",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4877",
+          "diss_me": 4877,
+          "iso_3166_2": "AD-04",
+          "wikipedia": "http://en.wikipedia.org/wiki/La_Massana",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "La Massana",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Massana",
+          "latitude": 42.55,
+          "longitude": 1.47083,
+          "admin": "Andorra",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-10, 11, 12, 13]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "JL",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4882",
+          "diss_me": 4882,
+          "iso_3166_2": "AD-06",
+          "wikipedia": "http://en.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Sant Julià de Lòria",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Sant JuliÃ  de LÃ²ria",
+          "latitude": 42.4511,
+          "longitude": 1.47975,
+          "admin": "Andorra",
+          "gn_a1_code": "06",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [14, -13, 15, -7]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "EE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4881",
+          "diss_me": 4881,
+          "iso_3166_2": "AD-08",
+          "wikipedia": "http://en.wikipedia.org/wiki/Escaldes-Engordany",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Escaldes-Engordany",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Escaldes-Engordany",
+          "latitude": 42.495,
+          "longitude": 1.59428,
+          "admin": "Andorra",
+          "gn_a1_code": "08",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [-16, -12, -9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "AN",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "AND-4876",
+          "diss_me": 4876,
+          "iso_3166_2": "AD-07",
+          "wikipedia": "http://en.wikipedia.org/wiki/Andorra_la_Vella",
+          "iso_a2": "AD",
+          "adm0_sr": 3,
+          "name": "Andorra la Vella",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": 1,
+          "woe_name": "Andorra la Vella",
+          "latitude": 42.5128,
+          "longitude": 1.51066,
+          "admin": "Andorra",
+          "gn_a1_code": "07",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

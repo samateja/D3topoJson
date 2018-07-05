@@ -1,0 +1,521 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [39666, 334],
+      [67, -26],
+      [55, -51],
+      [103, -129],
+      [14, -60],
+      [-58, -40],
+      [-83, -21],
+      [-63, -7],
+      [-74, 9],
+      [-53, 27],
+      [-41, 46],
+      [-38, 63],
+      [23, 64],
+      [45, 63],
+      [54, 46],
+      [49, 16]
+    ],
+    [
+      [40805, 11820],
+      [-10, -115],
+      [14, -149],
+      [-5, -139],
+      [-67, -79],
+      [0, 74],
+      [-27, 54],
+      [-34, 35],
+      [-30, 40],
+      [-12, 76],
+      [23, 43],
+      [110, 128],
+      [38, 32]
+    ],
+    [
+      [39635, 70530],
+      [-106, 0],
+      [-84, 26],
+      [-93, 62],
+      [-56, 63],
+      [27, 34],
+      [312, -151],
+      [0, -34]
+    ],
+    [
+      [30299, 4097],
+      [97, -4],
+      [101, -27],
+      [79, -53],
+      [32, -82],
+      [1, -111],
+      [-9, -50],
+      [-27, -44],
+      [-139, 23],
+      [-17, -4],
+      [-95, 50],
+      [-200, -16],
+      [-67, 59],
+      [38, 40],
+      [30, 102],
+      [7, 66],
+      [40, 35],
+      [129, 16]
+    ],
+    [
+      [42792, 9708],
+      [-26, -90],
+      [-53, -40],
+      [-59, 19],
+      [-46, 81],
+      [2, 95],
+      [53, 32],
+      [71, -23],
+      [58, -74]
+    ],
+    [
+      [38943, 10585],
+      [-17, -101],
+      [-74, -38],
+      [-93, 22],
+      [-75, 81],
+      [-26, 132],
+      [74, 20],
+      [116, -47],
+      [95, -69]
+    ],
+    [
+      [37988, 11464],
+      [-64, 58],
+      [24, -8],
+      [15, -15],
+      [25, -35]
+    ],
+    [
+      [37891, 11584],
+      [-31, -32],
+      [-18, -4],
+      [7, 15],
+      [42, 21]
+    ],
+    [
+      [34686, 14531],
+      [-62, 27],
+      [-64, 53],
+      [-27, 50],
+      [50, 17],
+      [25, -28],
+      [14, -53],
+      [29, -39],
+      [71, 17],
+      [-4, -16],
+      [-8, -11],
+      [-24, -17]
+    ],
+    [
+      [0, 60183],
+      [44, 8],
+      [20, 1],
+      [21, -7],
+      [-32, -42],
+      [-24, -13],
+      [-17, 13],
+      [-12, 40]
+    ],
+    [
+      [24324, 62902],
+      [-41, 41],
+      [-10, 17],
+      [83, -51],
+      [210, -228],
+      [-242, 221]
+    ],
+    [
+      [23813, 64791],
+      [90, 42],
+      [-28, -49],
+      [-59, -45],
+      [-3, 52]
+    ],
+    [
+      [30363, 16917],
+      [63, 10],
+      [53, -45],
+      [3, -44],
+      [-18, 20],
+      [-8, 35],
+      [-16, 5],
+      [-48, -101],
+      [-2, -19],
+      [16, -119],
+      [-32, -53],
+      [-54, 3],
+      [-36, 50],
+      [-8, 67],
+      [23, 105],
+      [20, 36],
+      [44, 50]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00019890911268461396, 0.00018372604822173514],
+    "translate": [-165.82453365799992, -21.938897393999923]
+  },
+  "objects": {
+    "cookIslands": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X03~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4952",
+          "diss_me": 4952,
+          "iso_3166_2": "CK-X03~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Mangaia",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Mangaia",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Mangaia",
+          "latitude": -21.9367,
+          "longitude": -157.909,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [1]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X05~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4954",
+          "diss_me": 4954,
+          "iso_3166_2": "CK-X05~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Mitiaro",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Mitiaro",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Mitiaro",
+          "latitude": -19.8389,
+          "longitude": -157.707,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X11~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4962",
+          "diss_me": 4962,
+          "iso_3166_2": "CK-X11~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Penrhyn_Island",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Penrhyn",
+          "name_alt": "Tongareva|Mangarongaro|Hararanga|Te Pitaka",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Tongareva",
+          "latitude": -8.99614,
+          "longitude": -157.956,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [3]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X04~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4953",
+          "diss_me": 4953,
+          "iso_3166_2": "CK-X04~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Rarotonga",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Rarotonga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Rarotonga",
+          "latitude": -21.2088,
+          "longitude": -159.789,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [4]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X06~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4955",
+          "diss_me": 4955,
+          "iso_3166_2": "CK-X06~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Mauke",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Mauke",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Mauke",
+          "latitude": -20.1852,
+          "longitude": -157.312,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [
+            [5]
+          ],
+          [
+            [6]
+          ],
+          [
+            [7]
+          ]
+        ],
+        "type": "MultiPolygon",
+        "properties": {
+          "id": "X01~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4950",
+          "diss_me": 4950,
+          "iso_3166_2": "CK-X01~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Atiu",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Atiu",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Atiu",
+          "latitude": -20.0232,
+          "longitude": -158.089,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [8]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X02~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4951",
+          "diss_me": 4951,
+          "iso_3166_2": "CK-X02~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Aitutaki",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Aitutaki",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Aitutaki",
+          "latitude": -19.2709,
+          "longitude": -158.892,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X08~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4959",
+          "diss_me": 4959,
+          "iso_3166_2": "CK-X08~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Pukapuka",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Pukapuka",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Pukapuka",
+          "latitude": -10.9163,
+          "longitude": -165.802,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X10~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4961",
+          "diss_me": 4961,
+          "iso_3166_2": "CK-X10~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Manihiki",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Manihiki",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Maniki",
+          "latitude": -10.4098,
+          "longitude": -160.963,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [11]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X09~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4960",
+          "diss_me": 4960,
+          "iso_3166_2": "CK-X09~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Rakahanga",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Rakahanga",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Rakahanga",
+          "latitude": -10.0641,
+          "longitude": -161.065,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [12]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "X07~",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "COK-4956",
+          "diss_me": 4956,
+          "iso_3166_2": "CK-X07~",
+          "wikipedia": "http://en.wikipedia.org/wiki/Palmerston_Island",
+          "iso_a2": "CK",
+          "adm0_sr": 4,
+          "name": "Palmerston",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "Palmerston",
+          "latitude": -18.8968,
+          "longitude": -159.771,
+          "admin": "Cook Islands",
+          "gn_a1_code": "",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}

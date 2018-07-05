@@ -1,0 +1,311 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [1010, 49],
+      [-14, -22],
+      [-25, -14],
+      [-63, -13],
+      [-119, 3],
+      [-59, 20],
+      [-25, 39],
+      [-42, 88],
+      [-102, 62],
+      [-122, 37],
+      [-105, 15],
+      [-212, -7],
+      [-87, 28],
+      [-35, 89],
+      [21, 102],
+      [146, 272],
+      [21, 122],
+      [25, 69],
+      [55, 74],
+      [64, 52],
+      [47, 10],
+      [107, -18],
+      [110, 18]
+    ],
+    [
+      [596, 1075],
+      [-6, -62],
+      [-9, -71],
+      [-3, -54],
+      [0, -76],
+      [25, -45],
+      [35, -46],
+      [35, -38],
+      [47, -50],
+      [3, -42],
+      [-19, -29],
+      [-19, -25],
+      [10, -29],
+      [38, -17],
+      [38, -42],
+      [41, -58]
+    ],
+    [
+      [812, 391],
+      [6, -84],
+      [-3, -54],
+      [13, -63],
+      [47, -66],
+      [45, -34],
+      [57, -29],
+      [33, -12]
+    ],
+    [
+      [1261, 264],
+      [-51, -26],
+      [-171, -154],
+      [-29, -35]
+    ],
+    [
+      [812, 391],
+      [41, 41],
+      [44, 59],
+      [0, 67],
+      [-22, 46],
+      [26, 50],
+      [50, 37],
+      [38, 42],
+      [-6, 50],
+      [-19, 50],
+      [-32, 46],
+      [13, 55],
+      [38, 50],
+      [44, 4],
+      [60, -4],
+      [57, 8],
+      [35, 55]
+    ],
+    [
+      [1179, 1047],
+      [137, -90]
+    ],
+    [
+      [1316, 957],
+      [-23, -40],
+      [-19, -63],
+      [-9, -67]
+    ],
+    [
+      [1265, 787],
+      [-41, -20],
+      [-32, -21],
+      [-35, -46],
+      [-19, -63],
+      [0, -63],
+      [10, -66],
+      [28, -63],
+      [35, -71],
+      [35, -75],
+      [15, -35]
+    ],
+    [
+      [1592, 811],
+      [97, -30],
+      [68, -33],
+      [19, -39],
+      [-57, -124],
+      [-83, -132],
+      [-100, -106],
+      [-110, -43],
+      [-121, -17],
+      [-44, -23]
+    ],
+    [
+      [1265, 787],
+      [-7, -75],
+      [42, -42],
+      [53, -25],
+      [64, -37],
+      [25, -29],
+      [35, 0],
+      [16, 71],
+      [0, 50],
+      [44, 25],
+      [38, 42],
+      [17, 44]
+    ],
+    [
+      [1316, 957],
+      [113, -75],
+      [138, -64],
+      [25, -7]
+    ],
+    [
+      [596, 1075],
+      [136, 86],
+      [73, 28],
+      [130, -10],
+      [126, -54],
+      [118, -78]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00020441278716215843, 0.00015502621698906534],
+    "translate": [103.64039147200003, 1.26430898600006]
+  },
+  "objects": {
+    "singapore": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "arcs": [
+          [0, 1, 2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SW",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "SGP-4872",
+          "diss_me": 4872,
+          "iso_3166_2": "SG-05",
+          "wikipedia": "http://en.wikipedia.org/wiki/South_West_Community_Development_Council",
+          "iso_a2": "SG",
+          "adm0_sr": 3,
+          "name": "South West",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "South West",
+          "latitude": 1.33718,
+          "longitude": 103.705,
+          "admin": "Singapore",
+          "gn_a1_code": "05",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [3, -3, 4, 5, 6, 7]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "CS",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "SGP-4871",
+          "diss_me": 4871,
+          "iso_3166_2": "SG-01",
+          "wikipedia": "http://en.wikipedia.org/wiki/Central_Singapore_Community_Development_Council",
+          "iso_a2": "SG",
+          "adm0_sr": 3,
+          "name": "Central Singapore",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": 1,
+          "woe_name": "Central Singapore",
+          "latitude": 1.31704,
+          "longitude": 103.846,
+          "admin": "Singapore",
+          "gn_a1_code": "01",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [8, -8, 9]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "SE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "SGP-4875",
+          "diss_me": 4875,
+          "iso_3166_2": "SG-04",
+          "wikipedia": "http://en.wikipedia.org/wiki/South_East_Community_Development_Council",
+          "iso_a2": "SG",
+          "adm0_sr": 3,
+          "name": "South East",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "South East",
+          "latitude": 1.33524,
+          "longitude": 103.932,
+          "admin": "Singapore",
+          "gn_a1_code": "04",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [10, -10, -7]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "NE",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "SGP-4874",
+          "diss_me": 4874,
+          "iso_3166_2": "SG-02",
+          "wikipedia": "http://en.wikipedia.org/wiki/North_East_Community_Development_Council",
+          "iso_a2": "SG",
+          "adm0_sr": 3,
+          "name": "North East",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "North East",
+          "latitude": 1.38379,
+          "longitude": 103.925,
+          "admin": "Singapore",
+          "gn_a1_code": "02",
+          "min_zoom": 11
+        }
+      }, {
+        "arcs": [
+          [11, -5, -2]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "id": "NW",
+          "featurecla": "Admin-1 scale rank",
+          "scalerank": 10,
+          "adm1_code": "SGP-4873",
+          "diss_me": 4873,
+          "iso_3166_2": "SG-03",
+          "wikipedia": "http://en.wikipedia.org/wiki/North_West_Community_Development_Council",
+          "iso_a2": "SG",
+          "adm0_sr": 3,
+          "name": "North West",
+          "name_alt": "",
+          "name_local": "",
+          "type_en": "",
+          "code_local": "",
+          "note": "",
+          "hasc_maybe": "",
+          "postal": "",
+          "sameascity": -99,
+          "woe_name": "North West",
+          "latitude": 1.41809,
+          "longitude": 103.808,
+          "admin": "Singapore",
+          "gn_a1_code": "03",
+          "min_zoom": 11
+        }
+      }]
+    }
+  }
+}
